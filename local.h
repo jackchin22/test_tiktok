@@ -8,5 +8,6 @@
 #ifndef local_h
 #define local_h
 
+#define testgit
 
 #endif /* local_h */
